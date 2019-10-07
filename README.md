@@ -1,3 +1,3 @@
 # Roteiro9BD
 
-@author [EuclidesRamos](https://github.com/EuclidesRamos)
+<i>@author [EuclidesRamos](https://github.com/EuclidesRamos)</i>
